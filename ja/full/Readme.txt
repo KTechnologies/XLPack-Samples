@@ -1,6 +1,6 @@
-サンプルワークシート (XLPack 6.0 用) (2022.2.12)
+サンプルワークシート (XLPack 7.0 用) (2024.7.24)
 
-XLPack のフル機能版 (追加モジュール 1～4) で使用できるサンプルワークシートです.
+XLPack のフル機能版 (追加モジュール 1～5) で使用できるサンプルワークシートです.
 
 (1) ワークシート関数使用例 (WSフォルダ)
 
@@ -12,7 +12,7 @@ XLPack のフル機能版 (追加モジュール 1～4) で使用できるサンプルワークシートです.
   Sample_Int_Quad_5.xlsx	補間・積分
   Sample_LinEq_5.xlsx		連立一次方程式
   Sample_LinLS_5.xlsx		線形最小二乗法
-  Sample_SF_6.0.xlsx		特殊関数
+  Sample_SF_7.0.xlsx		特殊関数
   Sample_SF-Graphs_6.0.xlsx	特殊関数のグラフ
   Sample_ZEigen_5.xlsx		固有値・固有ベクトル (複素数)
   Sample_ZLinEq_5.xlsx		連立一次方程式 (複素数)
@@ -27,15 +27,20 @@ XLPack のフル機能版 (追加モジュール 1～4) で使用できるサンプルワークシートです.
   Sample_NlEq_5.xlsm		非線形方程式
   Sample_NlLs_5.xlsm		非線形最小二乗法
   Sample_NlOpt_5.xlsm		非線形最適化
-  Sample_ODE_5.4.xlsm		常微分方程式
+  Sample_ODE_7.0.xlsm		常微分方程式
   Sample_Quad_5.3.xlsm		数値積分
   Sample_SF-Graphs_5.3.xlsm	特殊関数のグラフ
-  Sample_ZEigen_6.0.xlsm		固有値・固有ベクトル (複素数)
+  Sample_ZEigen_6.0.xlsm	固有値・固有ベクトル (複素数)
   Sample_ZLinEq_5.xlsm		連立一次方程式 (複素数)
+  Sample_Sparse_LinEq_7.0.xlsm	連立一次方程式 (疎行列)
+  Sample_Sparse_Eigen_7.0.xlsm	固有値・固有ベクトル (疎行列)
+  Sample_Sparse_ZLinEq_7.0.xlsm	連立一次方程式 (疎行列) (複素数)
+  Sample_Sparse_ZEigen_7.0.xlsm	固有値・固有ベクトル (疎行列) (複素数)
+  Sample_Sparse_FEM_7.0.xlsm	有限要素法によるポアソン方程式の解 (疎行列)
 
 (3) ソルバー使用例 (Solverフォルダ)
 
-  Sample_Solver_5.xlsx
+  Sample_Solver_7.0.xlsx
 
 ---
 ご注意
@@ -45,4 +50,4 @@ XLPack のフル機能版 (追加モジュール 1～4) で使用できるサンプルワークシートです.
 ・サンプルワークシートは非商業目的で変更したり使用することができますが, 再配布は
   ご遠慮ください.
 
-(C) 2014-2022 K Technologies
+(C) 2014-2024 K Technologies

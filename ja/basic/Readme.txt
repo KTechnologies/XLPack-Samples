@@ -1,4 +1,4 @@
-サンプルワークシート (XLPack 6.0 基本機能用) (2022.2.12)
+サンプルワークシート (XLPack 7.0 基本機能用) (2024.7.23)
 
 XLPack の基本機能 (追加モジュール購入なし) で使用できるサンプルワークシートです.
 
@@ -14,17 +14,23 @@ XLPack の基本機能 (追加モジュール購入なし) で使用できるサンプルワークシートです.
 
 (2) VBA関数使用例
 
-  サンプルワークシートでXLPack.xlamへの参照設定が必要です.
+  本サンプルワークシートでは XLPack.xlam への参照設定済です.
 
-  Sample_VBA_Basic_6.0.xlsm
+  Sample_VBA_Basic_7.0.xlsm
 	連立一次方程式, 固有値・固有ベクトル, 線形最小二乗法, スプライン補間,
 	非線形方程式, 非線形最適化, 数値積分, 常微分方程式, FFT, 非線形最小二乗法
   Sample_SF-Graphs_Basic_6.0.xlsm
 	特殊関数のグラフ
+  Sample_Sparse_LinEq_Basic_7.0.xlsm
+	疎行列の連立一次方程式
+  Sample_Sparse_FEM_Basic_7.0.xlsm
+	有限要素法によるポアソン方程式の解
 
 (3) ソルバー使用例
 
-  Sample_Solver_Basic_6.0.xlsx
+  XLPackソルバーアドインを組み込んでおく必要があります.
+
+  Sample_Solver_Basic_7.0.xlsx
 
 ---
 ご注意
@@ -34,4 +40,4 @@ XLPack の基本機能 (追加モジュール購入なし) で使用できるサンプルワークシートです.
 ・サンプルワークシートは非商業目的で変更したり使用することができますが, 再配布はご
   遠慮ください.
 
-(C) 2014-2022 K Technologies
+(C) 2014-2024 K Technologies
